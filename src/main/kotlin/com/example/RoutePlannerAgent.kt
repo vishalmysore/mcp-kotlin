@@ -7,7 +7,7 @@ import com.t4a.annotations.Agent
     groupName = "GeoSpatial Route Planner Agent",
     groupDescription = "Provides advanced route planning, traffic analysis, and custom map generation services"
 )
-class RoutePlanner {
+class RoutePlannerAgent {
 
     @Action(description = "Calculates optimal route between two locations considering traffic conditions")
     fun planOptimalRoute(origin: String, destination: String, preferences: List<String>): String {
