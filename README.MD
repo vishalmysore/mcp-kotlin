@@ -1,7 +1,7 @@
 # MCP-Kotlin Server
 
 A flexible MCP (Model Context Protocol) server implementation in Kotlin that supports both A2A and MCP protocols.  
-This agent is built using [a2ajava](https://github.com/vishalmysore/a2ajava) library, which is a "swiss knife" for building agentic applications in multiple languages such as Java and Kotlin, supporting multiple protocols.
+This agent is built using [a2ajava](https://github.com/vishalmysore/a2ajava) library, which is a "swiss knife" for building agentic applications in multiple languages such as Java and Kotlin, supporting multiple protocols.  
 
 <p align="center">
   <img src="kotlin.png" width="400" alt="Connector Architecture">
