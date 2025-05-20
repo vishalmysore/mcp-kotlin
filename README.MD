@@ -5,7 +5,8 @@ This agent is built using [a2ajava](https://github.com/vishalmysore/a2ajava) lib
 
 <p align="center">
   <img src="kotlin.png" width="400" alt="Connector Architecture">
-</p>
+</p>  
+
 ## Features
 
 - Dual protocol support (A2A and MCP)
